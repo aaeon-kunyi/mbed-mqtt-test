@@ -1,0 +1,10 @@
+{
+    "target_overrides": {
+        "*": {
+            "platform.stdio-baud-rate"              : 115200,
+            "platform.stdio-convert-newlines"       : true,
+            "platform.heap-stats-enabled"           : 1,
+            "target.OUTPUT_EXT" : "hex"
+        }
+    }
+}
