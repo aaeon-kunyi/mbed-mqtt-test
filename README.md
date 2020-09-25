@@ -3,7 +3,7 @@
 
 The example project is 
 1. [Install Mbed CLI](https://os.mbed.com/docs/mbed-os/latest/quick-start/offline-with-mbed-cli.html).
-2. From the command-line, import the example: `mbed import github.com/aaeon-kunyi/mbed-mqtt-test`
+2. From the command-line, import the example: `mbed import https://github.com/aaeon-kunyi/mbed-mqtt-test`
 3. Change the current directory to where the project was imported.
 
 ## Application functionality
